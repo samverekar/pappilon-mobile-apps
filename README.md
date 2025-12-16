@@ -69,7 +69,7 @@ This was built before reliable mobile maps or location APIs existed, requiring c
 ## Technical Characteristics
 
 - Platform: Symbian OS
-- Language: Native Symbian C++
+- Language: J2ME
 - Architecture:
   - Device-first logic
   - Minimal network payloads
